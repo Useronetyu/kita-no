@@ -66,7 +66,8 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di komputer lokal (
 2.  **Masuk ke Direktori Proyek:**
     Buka terminal (Command Prompt/Terminal) dan arahkan ke folder proyek.
     ```bash
-    cd nama-folder-proyek
+    git clone https://github.com/Useronetyu/kita-no.git
+    cd kita-no
     ```
 
 3.  **Instal Dependensi:**
