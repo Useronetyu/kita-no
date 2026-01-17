@@ -62,11 +62,12 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di komputer lokal (
 
 1.  **Clone Repository / Extract File:**
     Unduh source code dan ekstrak ke folder tujuan.
+    ```bash
+    contoh:  C:\Users\User\Downloads> git clone https://github.com/Useronetyu/kita-no.git
 
 2.  **Masuk ke Direktori Proyek:**
     Buka terminal (Command Prompt/Terminal) dan arahkan ke folder proyek.
     ```bash
-    git clone https://github.com/Useronetyu/kita-no.git
     cd kita-no
     ```
 
