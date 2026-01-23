@@ -4,6 +4,16 @@
 
 Aplikasi ini memungkinkan pengguna untuk menghubungkan dompet MetaMask mereka, menambang sumber daya (*mining*), melakukan *staking* aset, bermain *mini-games* di Arcade, serta melakukan transaksi jual-beli NFT secara *Peer-to-Peer*.
 
+## 👤 Author Information
+
+* **Name:** Mochamad Ilham Hansyil Alfauzi
+* **Student ID (NIM):** 230202767
+* **Class:** 5IKRB
+* **Institution:** Universitas Putra Bangsa
+* **Subject:** Cryptography
+* **Kelompok:** Kriptografi Kelompok 1
+* **Kontribusi:** PPT, Laporan, Website
+
 ## 🌟 Fitur Utama
 
 Aplikasi ini terdiri dari empat pilar utama yang saling terintegrasi:
